@@ -1,0 +1,28 @@
+.shoe-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shoe-images img {
+  width: 500px;
+  height: auto;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.shoe-name {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(255, 255, 255);
+}
+.shoe-price {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(255, 255, 255);
+}
+.sfondo{
+  background-color: black;
+}
+.boxwhite {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
